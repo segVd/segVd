@@ -1,7 +1,7 @@
 
 
-<a href="https://github.com/imKnerdy">
-<img align='middle' src="https://stats.pphat.top/stats?username=imKnerdy&avatar_mode=radar&theme=prussian&data_border_style=frame" style="width:100%"/>
+<a href="https://github.com/segVd">
+<img align='middle' src="https://stats.pphat.top/stats?username=segVd&avatar_mode=radar&theme=prussian&data_border_style=frame" style="width:100%"/>
 </a>
 
 
@@ -46,7 +46,7 @@ Competing in CTFs with a focus on forensics, steganography, and web exploitation
 
 <div align="center">
   
-[![GitHub Issues](https://img.shields.io/badge/Contact%20via%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imKnerdy/Contact-The-RndmGeek/issues/new)
+[![GitHub Issues](https://img.shields.io/badge/Contact%20via%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segVd/Contact-The-RndmGeek/issues/new)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlotliso-ledwaba-3201ab309/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1507908398933344299)
 [![medium](https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Rndm.Geek)
@@ -59,7 +59,7 @@ Competing in CTFs with a focus on forensics, steganography, and web exploitation
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=imKnerdy&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=segVd&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -67,14 +67,14 @@ Competing in CTFs with a focus on forensics, steganography, and web exploitation
 
 ## Daily commitment
 
-<img align='middle' src="https://stats.pphat.top/graph?username=imKnerdy&theme=ocean&size=large&show_background=true&animate=glow"/>
+<img align='middle' src="https://stats.pphat.top/graph?username=segVd&theme=ocean&size=large&show_background=true&animate=glow"/>
 
 <br>
 
 
 <div align="center">
 
-  ![](https://stats.pphat.top/badges?username=imKnerdy&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,ocean,ocean,ocean,ocean,ocean&padding=10&size=medium)
+  ![](https://stats.pphat.top/badges?username=segVd&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,ocean,ocean,ocean,ocean,ocean&padding=10&size=medium)
 
 </div>
 
